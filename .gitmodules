@@ -1,0 +1,4 @@
+[submodule "src/lib/d3-cloud"]
+	path = src/lib/d3-cloud
+	url = https://github.com/jasondavies/d3-cloud.git
+	branch = master
